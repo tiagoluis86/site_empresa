@@ -1,0 +1,63 @@
+* {
+    background-color: #f5f4e8;
+    margin-left: 5px;
+    
+    }
+
+
+header {
+
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.logotipo {
+
+    margin-top: 20px;
+
+}
+.rounded-circle {
+
+    width: 150px;
+    
+}
+
+
+body .galeriaprojetos {
+
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+
+.item {
+
+    width: 50%;
+
+}
+
+.subtitle {
+
+   
+    font-weight: bold;
+
+}
+
+.footer {
+
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+
+}
+
+.item2 {
+    font-weight: bold;
+}
+
